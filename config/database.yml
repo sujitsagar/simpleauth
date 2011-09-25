@@ -12,10 +12,10 @@ development:
   adapter: mysql2
   encoding: utf8
   reconnect: false
-  database: pooling_development
+  database: auth_development
   pool: 5
   username: root
-  password: sujit
+  password: 
   socket: /var/run/mysqld/mysqld.sock
 
 # Warning: The database defined as "test" will be erased and
@@ -25,18 +25,18 @@ test:
   adapter: mysql2
   encoding: utf8
   reconnect: false
-  database: pooling_test
+  database: auth_test
   pool: 5
   username: root
-  password: sujit
+  password: 
   socket: /var/run/mysqld/mysqld.sock
 
 production:
   adapter: mysql2
   encoding: utf8
   reconnect: false
-  database: pooling_production
+  database: auth_production
   pool: 5
   username: root
-  password: sujit
+  password: 
   socket: /var/run/mysqld/mysqld.sock
