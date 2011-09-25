@@ -1,0 +1,29 @@
+<!DOCTYPE webprojectsession>
+<webprojectsession>
+  <session usePreviewPrefix="0" previewPrefix="" >
+    <itemcursorpositions>
+      <item line="32" column="36" url="db/schema.rb" />
+    </itemcursorpositions>
+    <treestatus>
+      <openfolder url="app" />
+      <openfolder url="app/assets" />
+      <openfolder url="app/assets/javascripts" />
+      <openfolder url="app/assets/stylesheets" />
+      <openfolder url="app/controllers" />
+      <openfolder url="app/helpers" />
+      <openfolder url="app/mailers" />
+      <openfolder url="app/models" />
+      <openfolder url="app/views" />
+      <openfolder url="app/views/layouts" />
+      <openfolder url="app/views/user_mailer" />
+      <openfolder url="app/views/user_sessions" />
+      <openfolder url="app/views/users" />
+      <openfolder url="config" />
+      <openfolder url="config/environments" />
+      <openfolder url="config/initializers" />
+      <openfolder url="db" />
+      <openfolder url="db/migrate" />
+      <openfolder url="public" />
+    </treestatus>
+  </session>
+</webprojectsession>
